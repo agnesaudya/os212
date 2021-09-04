@@ -1,13 +1,5 @@
 
-<html>
-<head>
-
-</head>
-<body>
-
-<div style="background-color:#B0E0E6;color:white;padding:20px;">
 <h1 style="font-family: Courier;color:black;">Operating Systems 2021-2(OS212)<br><span style="font-size:20px">Agnes Audya Tiara P</h1>
-</div>
 <p>This is my github page.</p>
   
 <h2 style="font-size:24px;font-family: Courier">Assignment:</h2>
@@ -19,6 +11,4 @@
   
 
 </ol>
-  
-</body>
-</html>
+
