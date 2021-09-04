@@ -1,17 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-<style>
 
-li a:hover {
-  background-color: #B0E0E6;
-}
-a:link {
-  text-decoration: none;
-  color: black;
-}
-
-</style>
 </head>
 <body>
 
