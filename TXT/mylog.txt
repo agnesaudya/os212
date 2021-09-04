@@ -1,7 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 15 L01 Assignment #01 (Creating Github Repository)
-ZCZC W00 5 L02 Assignment #02 (Creating Week 00 log)
-ZCZC W00 75 L03 Assignment #03 (Creating GitHub page index.html)
-ZCZC W00 15 L04 Assignment #04 (Finishing course registration)
+ZCZC W00 15 L11 Assignment #01 (Creating Github Repository)
+ZCZC W00 5 L12 Assignment #02 (Creating Week 00 log)
+ZCZC W00 75 L13 Assignment #03 (Creating GitHub page index.html)
+ZCZC W00 15 L14 Assignment #04 (Finishing course registration)
+ZCZC W00 120 L15 Assignment #05 (Reading assignment)
+ZCZC W00 100 L02 ZOOM Meeting-related
