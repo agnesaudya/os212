@@ -7,4 +7,13 @@ ZCZC W00 75 L13 Assignment #03 (Creating GitHub page index.html)
 ZCZC W00 15 L14 Assignment #04 (Finishing course registration)
 ZCZC W00 120 L15 Assignment #05 (Reading assignment)
 ZCZC W00 100 L02 ZOOM Meeting-related
-ZCZC W01  05 L11 Assignment #01
+ZCZC W01 15 L11 Assignment #01 (Preparing VirtualBox)
+ZCZC W01 30 L12 Assignment #02 (Importing a pre-installed OVA)
+ZCZC W01 30 L13 Assignment #03 (GSGS and trying some commands)
+ZCZC W01 120 L14 Assignment #04 (Dressing Up my Virtual Guest)
+ZCZC W01 15 L15 Assignment #05 (SSH & Git-related)
+ZCZC W01 60 L16 Assignment #06 (Github page related)
+ZCZC W01 15 L17 Assignment #07 (Updating mylog.txt)
+ZCZC W01 60 L18 Assignment #08 (learning some commands type)
+ZCZC W01 120 L19 Assignment #09 (Reading some chapters)
+
