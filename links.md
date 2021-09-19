@@ -13,3 +13,8 @@ permalink: /LINKS/
 # WEEK 2
 
 1. [User Authentication](https://www.sciencedirect.com/topics/computer-science/user-authentication)<br>
+   Introduction about User Authentication and the needs for User Authentication.
+   
+2. [Learn C language](https://www.learn-c.org/)<br>
+   A site to learn some programming concepts in C language.
+   
