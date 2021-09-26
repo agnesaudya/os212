@@ -18,3 +18,10 @@ permalink: /LINKS/
 2. [Learn C language](https://www.learn-c.org/)<br>
    A site to learn some programming concepts in C language.
    
+# WEEK 3
+
+1. [File System](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
+   A site to about the definition of File System.
+   
+2. [Memory Mapped Files](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
+   Definition and samples about Memory Mapped Files.
