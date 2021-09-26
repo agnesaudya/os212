@@ -29,4 +29,15 @@ ZCZC W02  15 L19 Assignment #09 (Updating LINKS)
 ZCZC W02  60 L20 Assignment #10 (Reviewing Peer LINKS)
 ZCZC W02  15 L09 Assignment #11 (Copying bash script)
 ZCZC W02  15 L09 Assignment #12 (Updating mylog.txt)
-ZCZC W02  15 L09 Assignment #13 (Generating SHA256NUM and SHA256NUM.asc)
+ZCZC W02  15 L09 Assignment #13 (Generating SHA256NUM and SHA256NUM.asc
+ZCZC W03 100 L02 ZOOM Meeting-related
+ZCZC W03  20 L22 Quiz
+ZCZC W03 150 L11 Assignment #01 (Reading)
+ZCZC W03 150 L12 Assignment #02 (Trying demos)
+ZCZC W03 120 L13 Assignment #03 (Trying previous midterm problem)
+ZCZC W03  15 L14 Assignment #04 (Checking .bash_aliases)
+ZCZC W03  90 L15 Assignment #05 (Adding/Creating extra virtual disk)
+ZCZC W03  20 L16 Assignment #06 (Updating LINKS)
+ZCZC W03  60 L17 Assignment #07 (Reviewing peer LINKS)
+ZCZC W03   5 L18 Assignment #08 (Updating mylog.txt)
+ZCZC W03   5 L19 Assignment #09 (Submitting Week 03 assignment)
