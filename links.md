@@ -25,3 +25,8 @@ permalink: /LINKS/
    
 2. [Memory Mapped Files](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
    Definition and samples about Memory Mapped Files.
+   
+# WEEK 4
+
+1. [Memory Allocation Techniques](https://www.geeksforgeeks.org/memory-allocation-techniques-mapping-virtual-addresses-to-physical-addresses/)<br>
+   This site tells some techniques for allocating memory. 
