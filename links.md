@@ -30,3 +30,6 @@ permalink: /LINKS/
 
 1. [Memory Allocation Techniques](https://www.geeksforgeeks.org/memory-allocation-techniques-mapping-virtual-addresses-to-physical-addresses/)<br>
    This site tells some techniques for allocating memory. 
+   
+2. [Hardware protection](https://www.geeksforgeeks.org/hardware-protection-and-type-of-hardware-protection/)<br>
+   This site tells type of hardware protection.
