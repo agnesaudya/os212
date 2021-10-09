@@ -33,3 +33,11 @@ permalink: /LINKS/
    
 2. [Hardware protection](https://www.geeksforgeeks.org/hardware-protection-and-type-of-hardware-protection/)<br>
    This site tells type of hardware protection.
+   
+# WEEK 5
+
+1. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+   This site tells about Virtual Memory in Operating System.
+   
+2. [Memory Allocation Algorithms](https://www.youtube.com/watch?v=10vroQb5IdY/)<br>
+   This video will explain some memory allocation algorithms.
