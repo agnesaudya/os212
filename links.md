@@ -41,3 +41,8 @@ permalink: /LINKS/
    
 2. [Memory Allocation Algorithms](https://www.youtube.com/watch?v=10vroQb5IdY/)<br>
    This video will explain some memory allocation algorithms.
+
+# WEEK 6
+
+1. [Fork in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+   This site tells how fork() works in C Programming.
