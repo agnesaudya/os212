@@ -46,3 +46,8 @@ permalink: /LINKS/
 
 1. [Fork in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
    This site tells how fork() works in C Programming.
+
+# WEEK 7
+
+1. [Process Synchronisation and Deadlocks](https://computing.dcu.ie/~humphrys/Notes/OS/synch.html)<br>
+   This site tells how wait and signal works.
