@@ -51,3 +51,8 @@ permalink: /LINKS/
 
 1. [Process Synchronisation and Deadlocks](https://computing.dcu.ie/~humphrys/Notes/OS/synch.html)<br>
    This site tells how wait and signal works.
+
+# WEEK 8
+
+1. [CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling)<br>
+   This site tells stuff about scheduling.
