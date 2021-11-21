@@ -56,3 +56,8 @@ permalink: /LINKS/
 
 1. [CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling)<br>
    This site tells stuff about scheduling.
+
+# WEEK 9
+
+1. [Firmware](https://courses.lumenlearning.com/zeliite115/chapter/reading-firmware/)<br>
+   This site tells stuff about firmware.

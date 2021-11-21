@@ -1,4 +1,4 @@
-i Log Format
+Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  15 L11 Assignment #01 (Creating Github Repository)
@@ -90,3 +90,12 @@ ZCZC W08  30 L16 Assignment #06 (Updating LINKS)
 ZCZC W08  30 L18 Assignment #08 (Reviewing peer LINKS)
 ZCZC W08  30 L19 Assignment #09 (Updating mylog.txt)
 ZCZC W08  15 L20 Assignment #10 (Submitting Week 08 assignment)
+ZCZC W09  20 L22 Quiz
+ZCZC W09  60 L11 Assignment #01 (Reading)
+ZCZC W09  60 L12 Assignment #02 (Trying demos)
+ZCZC W09  90 L13 Assignment #03 (Trying previous midterm problem)
+ZCZC W09 240 L14 Assignment #04 (Linux From Scratch 11.0)
+ZCZC W09  30 L16 Assignment #06 (Updating LINKS)
+ZCZC W09  30 L18 Assignment #08 (Reviewing peer LINKS)
+ZCZC W09  30 L19 Assignment #09 (Updating mylog.txt)
+ZCZC W09  15 L20 Assignment #10 (Submitting Week 09 assignment)
