@@ -61,3 +61,8 @@ permalink: /LINKS/
 
 1. [Firmware](https://courses.lumenlearning.com/zeliite115/chapter/reading-firmware/)<br>
    This site tells stuff about firmware.
+
+# WEEK 10
+
+1. [System call](https://www.geeksforgeeks.org/dup-dup2-linux-system-call/)<br>
+   This site tells stuff about system calls.
